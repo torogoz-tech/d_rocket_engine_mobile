@@ -1,4 +1,6 @@
-## 2.1.0
+# Changelog
+
+## [2.1.0] — Unreleased
 
 - Added `ConnectivityPlusProvider` for `connectivity_plus` 6.x.
 - Added replayable, deduplicated connectivity state changes.

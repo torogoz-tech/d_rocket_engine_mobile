@@ -1,8 +1,10 @@
 name: d_rocket_engine_mobile
 description: Mobile connectivity integrations for d_rocket synchronization.
 version: 2.1.0
-publish_to: none
-repository: https://github.com/torogoz-tech/d_rocket
+repository: https://github.com/torogoz-tech/d_rocket_engine_mobile
+homepage: https://github.com/torogoz-tech/d_rocket_engine_mobile
+issue_tracker: https://github.com/torogoz-tech/d_rocket_engine_mobile/issues
+documentation: https://github.com/torogoz-tech/d_rocket_engine_mobile#readme
 environment:
   sdk: ^3.6.0
   flutter: ">=3.10.0"
